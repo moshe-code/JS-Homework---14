@@ -1,0 +1,18 @@
+body{
+    background-image: url(https://ichef.bbci.co.uk/news/976/cpsprodpb/15369/production/_120998868_gettyimages-brazil-creditignaciopalacios-rightscleared.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+}   
+
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    margin: 180px;
+}
+
+.btn {
+    width: 300px;
+    height: 300px;
+}
